@@ -1,0 +1,16 @@
+Running 100 tests of 1000 jobs using 4 processors resulted in the following statistics.
+
+CIRCULAR PROCEDURE:
+Minimum: 59912 ms
+Maximum: 69622 ms
+Average: 65395.45 ms
+Standard Deviation: 1688.88
+Provided set overall turnaround time: 403 ms
+
+CUSTOM PROCEDURE:
+Minimum: 59741 ms
+Maximum: 65933 ms
+Average: 62970.66 ms
+Standard Deviation: 1175.85
+Provided set overall turnaround time: 286 ms
+
